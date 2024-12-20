@@ -43,6 +43,11 @@ composer install
 - - -
 
 ## ⚡ Quick Start
+lancer le serveur websocket php:
+```sh
+cd API/
+php server.php
+```
 - - -
 
 ## 📜 License
