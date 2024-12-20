@@ -36,6 +36,10 @@ The name `NewGame++` was chosen in reference to the incrementation of a variable
 - payment => buy items in your shopping cart
 
 ## 🔗 Dependencies
+
+```sh
+composer install
+```
 - - -
 
 ## ⚡ Quick Start
